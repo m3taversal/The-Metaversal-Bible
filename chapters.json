@@ -1,0 +1,75 @@
+[
+    {
+        "title": "1 - Intro",
+        "slug": "/the-ethos-of-the-metaversal-bible",
+        "sections": [
+            {
+                "title": "The Ethos of the Metaversal Bible",
+                "slug": "/the-ethos-of-the-metaversal-bible",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/1-intro/1.2-the-ethos-of-the-metaversal-bible.md"
+            },
+            {
+                "title": "A New Normal",
+                "slug": "/a-new-normal",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/1-intro/1.3-a-new-normal.md"
+            }
+        ]
+    },
+    {
+        "title": "2 - Web3 and The Metaverse",
+        "slug": "/the-metaverse-in-science-fiction",
+        "sections": [
+            {
+                "title": "The Metaverse in Science Fiction",
+                "slug": "/the-metaverse-in-science-fiction",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/2-web3-and-the-metaverse/2.1-the-metaverse-in-science-fiction.md"
+            },
+            {
+                "title": "What is a Metaverse?",
+                "slug": "/what-is-a-metaverse",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/2-web3-and-the-metaverse/2.2-what-is-a-metaverse.md"
+            },
+            {
+                "title": "What People Think A Metaverse Is",
+                "slug": "/what-people-think-a-metaverse-is",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/2-web3-and-the-metaverse/2.2-what-people-think-a-metaverse-is.md"
+            },
+            {
+                "title": "Web3, Decentralization and the Metaverse",
+                "slug": "/web3-decentralization-and-the-metaverse",
+                "url": "https://github.com/m3taversal/The-Metaversal-Bible/raw/main/2-web3-and-the-metaverse/2.4-web3-decentralization-and-the-metaverse.md"
+            },
+            {
+                "title": "What is Web3?",
+                "slug": "/what-is-web3",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/2-web3-and-the-metaverse/2.5-what-is-web3.md"
+            }
+        ]
+    },
+    {
+        "title": "3 - Transformation of the creative economy",
+        "slug": "/a-true-fan-centric-creative-ecosystem",
+        "sections": [
+            {
+                "title": "A True Fan Centric Creative Ecosystem",
+                "slug": "/a-true-fan-centric-creative-ecosystem",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/3-nfts-web3-and-the-transformation-of-the-creative-economy/3.1-a-true-fan-centric-creative-ecosystem.md"
+            },
+            {
+                "title": "Books and Publishing",
+                "slug": "/books-and-publishing",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/3-nfts-web3-and-the-transformation-of-the-creative-economy/3.2-books-and-publishing.md"
+            },
+            {
+                "title": "Play and Earn Gaming",
+                "slug": "/play-and-earn-gaming",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/3-nfts-web3-and-the-transformation-of-the-creative-economy/3.3-play-and-earn-gaming.md"
+            },
+            {
+                "title": "Media and Entertainment",
+                "slug": "/media-and-entertainment",
+                "url": "https://raw.githubusercontent.com/m3taversal/The-Metaversal-Bible/main/3-nfts-web3-and-the-transformation-of-the-creative-economy/3.4-media-and-entertainment.md"
+            }
+        ]
+    }
+]
